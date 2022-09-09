@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m currently working on ... Java Full Stack Apps 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/cesar-montalvo/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cesar-montalvo/)
 - ⚡ Fun fact: ... I almost died from eating a really hot pepper
 
 ---
