@@ -6,10 +6,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on ... Java Full Stack Apps 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Java and Spring Boot technologies
+- 👯 I’m looking to collaborate on ... Any projects really
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cesar-montalvo/)
-- ⚡ Fun fact: ... I almost died from eating a really hot pepper
+- ⚡ Fun fact: ... I almost died from eating a really hot pepper(california reaper)...well at least it felt like it lol
 
 ---
 
