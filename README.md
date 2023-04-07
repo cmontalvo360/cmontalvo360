@@ -3,9 +3,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I’m currently working on ... Java Full Stack Apps 
+- 🔭 I’m currently working on ... Sharpening my Software Devlopment skills
 - 🌱 I’m currently learning ... Java and Spring Boot technologies
 - 👯 I’m looking to collaborate on ... Any projects really
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cesar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cesar-montalvo/)
